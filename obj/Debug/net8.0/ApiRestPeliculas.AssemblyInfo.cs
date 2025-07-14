@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiRestPeliculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7c7eb01590ca316d86bbb4bce054c520dc4f93")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiRestPeliculas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiRestPeliculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
